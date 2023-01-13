@@ -1,1 +1,1 @@
-# junior react task
+# Scandiweb Junior Developer test assignment!
